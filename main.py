@@ -8,9 +8,9 @@ from pathlib import Path
 
 TEXT = (
     "There is a room at the end of a corridor you have walked a thousand "
-    "times, and tonight its door stands open for the first time. Inside, a "
-    "lamp burns over an empty chair, and on the table a letter addressed to "
-    "you, in your own handwriting. Do you read it?"
+    "times, and tonight its door stands open. Inside, a lamp burns over a "
+    "chair still warm from someone who just left, and on the table a letter "
+    "addressed to you, in your own handwriting. Do you read it?"
 )
 
 
